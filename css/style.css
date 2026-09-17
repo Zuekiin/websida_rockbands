@@ -156,8 +156,17 @@ main {
     gap: 16px;
     border-right: 1px solid gray;
 
+    ul li {
+      margin-bottom: 8px;
+    }
+
     a {
       color: black;
+      font-weight: 600;
+    }
+
+    a:hover {
+      color: red;
     }
   }
 
