@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(62, 60, 57);
+}
+section {
+  background-color: white;
+  padding: 10px;
+  width: 180px;
+  margin: auto;
+}
+div {
+  width: 150px;
+  height: 135px;
+  padding: 5px 0;
+}
+
+.råd {
+  background-color: red;
+  border: 15px solid #8b0000;
+}
+.gul {
+  background-color: yellow;
+  margin: 12px 0;
+  border: 15px solid #b8860b;
+}
+.grön {
+  background-color: green;
+  border: 15px solid #006400;
+}
